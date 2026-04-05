@@ -1,5 +1,8 @@
 # 📝 Full-Stack Todo Application
 
+<img width="464" height="453" alt="image" src="https://github.com/user-attachments/assets/08e2441e-6a05-4403-904d-671bb5039374" />
+
+
 A modern, high-performance Task Management system featuring a **Python (FastAPI)** backend and a **React (TypeScript)** frontend. This project demonstrates a complete CRUD (Create, Read, Update, Delete) workflow with a persistent SQLite database.
 
 ## 🚀 Key Features
