@@ -1,0 +1,19 @@
+# Test your FastAPI endpoints
+
+GET http://127.0.0.1:8000/items
+Accept: application/json
+
+###
+DELETE http://127.0.0.1:8000/items/1
+Accept: application/json
+
+###
+POST http://127.0.0.1:8000/items
+Accept: application/json
+Content-Type: application/json
+
+{
+    "text": "test todo",
+    "isDone": false
+}
+###
